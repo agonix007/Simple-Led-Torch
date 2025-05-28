@@ -706,7 +706,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 86.36) (xy 143.51 86.36)
+			(xy 137.16 86.36) (xy 144.78 86.36)
 		)
 		(stroke
 			(width 0)
@@ -726,7 +726,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 86.36) (xy 157.48 86.36)
+			(xy 152.4 86.36) (xy 157.48 86.36)
 		)
 		(stroke
 			(width 0)
@@ -957,7 +957,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 147.32 86.36 90)
+		(at 148.59 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -966,7 +966,7 @@
 		(fields_autoplaced yes)
 		(uuid "aaaae81c-5de6-448f-8c09-d8efb9e58f1f")
 		(property "Reference" "R1"
-			(at 147.32 80.01 90)
+			(at 148.59 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -974,7 +974,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 147.32 82.55 90)
+			(at 148.59 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -982,7 +982,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 147.32 88.138 90)
+			(at 148.59 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -991,7 +991,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 86.36 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1000,7 +1000,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 147.32 86.36 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
