@@ -1,5 +1,6 @@
 *.xml
 *.dsn
+*.lck
 .DS_Store
 fp-info-cache
 *Gerber/*
